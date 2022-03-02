@@ -28,11 +28,11 @@ Start by upgrading your system
 
       Finally, run:
 
-          $ sudo apt update
-          $ sudo apt-get install virtualbox-6.1
+         $ sudo apt update
+         $ sudo apt-get install virtualbox-6.1
 
       Once VirtualBox is installed, you can launch it using the terminal or Desktop applications search.   
 
-          $ virtualbox
+         $ virtualbox
 
       
